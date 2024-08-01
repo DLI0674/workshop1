@@ -7,6 +7,7 @@ public class ShoppingMain {
         p1.setColor("Black");
         Cart cart=new Cart();
         cart.add(p1);
+        cart.add(p1);
         Clothing p2=new Clothing("Jeans");
         p2.setPrice(1000);
         p2.setColor("Black");

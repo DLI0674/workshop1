@@ -8,7 +8,7 @@ public class LongestConsecutive {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         ArrayList<Integer> arr=new ArrayList<Integer>();
-        for(int i=0;i<20;i++){
+        for(int i=0;i<10;i++){
             int x=sc.nextInt();
             arr.add(x);
         }
